@@ -42,16 +42,24 @@ Importance (1 - 5) | Task
 
 
 ### Emmanuel
+- [ ] ==5== Finish Nuxt3 Crash Course
+- [ ] ==5== Contribute To Outreachy Project
+- [ ] ==3== Write a thread oon a DSA Concept
+- [ ] ==3== Solve 5 DSA Questions
+
 
 
 ### Victory
 - [ ] ==5== Integrate Sentry for app and error monitoring
-- [ ] ==5== Using Winston to log errors  
+- [ ] ==5== Using Winston to log errors 
+- [ ] ==3== Attempt the DSA questions
 
 
 ### Frank
-- [ ] ==5== Move a backend server from Render to Heroku
-- [ ] ==4== Write code for some schemas and assocssoc 
+- [ ] ==5== Move a backend server from Render to Heroku.
+- [ ] ==4== Write code for some Models and Associations for a personal project.  
+- [ ] ==3== Revisit some solidity concepts.
+- [ ] ==3== Do some DSA.
 
 
 ### Destiny
@@ -81,7 +89,10 @@ Importance (1 - 5) | Task
 
 
 ### Godson
-
+- [ ] ==5== Start new ML project
+- [ ] ==5== Read ML rule book
+- [ ] ==5== Get started with kotlin programming language
+- [ ] ==2== Try a small python projuect
 
 # 
 # 
