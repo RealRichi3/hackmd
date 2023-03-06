@@ -42,7 +42,7 @@ Importance (1 - 5) | Task
 
 
 ### Emmanuel
-- [ ] ==5== Finish Nuxt3 Crash Course
+- [x] ==5== Finish Nuxt3 Crash Course
 - [ ] ==5== Contribute To Outreachy Project
 - [ ] ==3== Write a thread oon a DSA Concept
 - [ ] ==3== Solve 5 DSA Questions
@@ -56,7 +56,7 @@ Importance (1 - 5) | Task
 
 
 ### Frank
-- [ ] ==5== Move a backend server from Render to Heroku.
+- [x] ==5== Move a backend server from Render to Heroku.
 - [ ] ==4== Write code for some Models and Associations for a personal project.  
 - [ ] ==3== Revisit some solidity concepts.
 - [ ] ==3== Do some DSA.
@@ -83,7 +83,10 @@ Importance (1 - 5) | Task
 
 
 ### Braimah
-
+- [ ] ==5== Complete Nigerian Analysis/Project
+- [ ] ==5== RHA Article
+- [ ] ==5== Deep Racer ML course
+- [ ] ==4== WorldQuant Project
 
 ### BlockyJ
 
