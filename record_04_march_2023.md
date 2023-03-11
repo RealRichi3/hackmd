@@ -11,6 +11,7 @@ Accountability Record 04/03/2023
     - Ifebhor
     - Destiny
     - Frank
+    - Joseph
     - Emmanuel
     - Gift
     - Godson
@@ -29,56 +30,54 @@ Accountability Record 04/03/2023
 --
 Importance (1 - 5) | Task
 ### Richie
-- [ ] ==4== Start Authentication API with Typescript
-- [ ] ==5== Complete Week 1 of  [Algorithms course]()
+- [x] ==4== Start Authentication API with Typescript
+- [x] ==5== Complete Week 1 of  [Algorithms course]()
 - [ ] ==4== Write 1 thread on twitter on anything DSA related
 
 
 ### Obianuju
-- [ ] ==5== Create a simple app using FastApi
-- [ ] ==5== Learn how to dockerise and deploy
-- [ ] ==5== Start contributing to outreachy🤞🏻
+- [x] ==5== Create a simple app using FastApi
+- [x] ==5== Start contributing to outreachy🤞🏻
 - [ ] ==2== 3 neetcode questions
 
 
 ### Emmanuel
 - [x] ==5== Finish Nuxt3 Crash Course
-- [ ] ==5== Contribute To Outreachy Project
+- [x] ==5== Start Github Octernship
 - [ ] ==3== Write a thread oon a DSA Concept
-- [ ] ==3== Solve 5 DSA Questions
+- [x] ==3== Solve 5 DSA Questions
 
 
 
 ### Victory
 - [ ] ==5== Integrate Sentry for app and error monitoring
-- [ ] ==5== Using Winston to log errors 
-- [ ] ==3== Attempt the DSA questions
+- [x] ==5== Using Winston to log errors 
+- [x] ==3== Attempt the DSA questions
 
 
 ### Frank
 - [x] ==5== Move a backend server from Render to Heroku.
-- [ ] ==4== Write code for some Models and Associations for a personal project.  
-- [ ] ==3== Revisit some solidity concepts.
-- [ ] ==3== Do some DSA.
+- [x] ==4== Write code for some Models and Associations for a personal project.  
+- [x] ==3== Do some DSA.
 
 
 ### Destiny
-- [ ] ==5== Write at least 2 articles (cloud & web)
-- [ ] ==5== Architecture Diagram for kubernetes project
-- [ ] ==5== 3 Leetcode
-- [ ] ==3== start a book (System Design or MySQL cookbook (on GOD)
+- [x] ==5== Write at least 2 articles (cloud & web)
+- [x] ==5== Architecture Diagram for kubernetes project
+- [x] ==5== 3 Leetcode
+- [x] ==3== start a book (System Design or MySQL cookbook (on GOD)
 
 ### Diana
-- [ ] ==5== Document my Excel dashboard project on Github.
-- [ ] ==5== Finish a PowerBi project and start documenting on Github.
-- [ ] ==3== Start contributing on an outreachy peoject.
-- [ ] ==3== Continue KPMG internship task.
+- [x] ==5== Document my Excel dashboard project on Github.
+- [x] ==5== Finish a PowerBi project and start documenting on Github.
+- [x] ==3== Start contributing on an outreachy peoject.
+- [x] ==3== Continue KPMG internship task.
 
 
 ### Asemota
-- [ ] ==5== Deep learning course
-- [ ] ==5== Start new project
-- [ ] ==5== Write an article on medium
+- [x] ==5== Deep learning course
+- [x] ==5== Start new project
+- [x] ==5== Write an article on medium
 - [ ] ==5== Start Outreachy contribution
 
 
@@ -89,13 +88,17 @@ Importance (1 - 5) | Task
 - [ ] ==4== WorldQuant Project
 
 ### BlockyJ
-
+- [ ] ==5== Complete Optimization Course
+- [ ] ==4== Start Yul
+- [x] ==3== Finish Oracle Article
+- [ ] ==4== Start compiler book
+- [ ] ==5== Complete Senior track at learnweb3
 
 ### Godson
-- [ ] ==5== Start new ML project
-- [ ] ==5== Read ML rule book
-- [ ] ==5== Get started with kotlin programming language
-- [ ] ==2== Try a small python projuect
+- [x] ==5== Start new ML project
+- [x] ==5== Read ML rule book
+- [x] ==5== Get started with kotlin programming language
+- [x] ==2== Try a small python projuect
 
 # 
 # 
